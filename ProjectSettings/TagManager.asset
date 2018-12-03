@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Balls
+  - Timer
+  - Poings
+  - chancre
+  - ZoneExplosive
+  - MurAmovible
+  - Triangle
+  - Massive
+  - ResetPlayer
+  - EVENTDAMAGE
+  - EVENTNODAMAGE
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - BOX
+  - Massive
+  - 
+  - 
+  - zoneZone
+  - ZonePoings
+  - Triangle
+  - HitZone
+  - 
+  - Pilier
+  - chancre
+  - 
+  - Player
+  - Laser
+  - 
+  - Destroyer
+  - Projectile
+  - Wall
+  - HitPoings
+  - Background
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hanche
+    uniqueID: 2394805051
+    locked: 0
+  - name: Corps
+    uniqueID: 637555917
+    locked: 0
+  - name: "T\xEAte"
+    uniqueID: 1809472571
+    locked: 0
+  - name: 
+    uniqueID: 3771975833
+    locked: 0
+  - name: Background
+    uniqueID: 2786964481
+    locked: 0
+  - name: UI
+    uniqueID: 3103589819
+    locked: 0
+  - name: 
+    uniqueID: 727367441
+    locked: 0
+  - name: PlayerUn
+    uniqueID: 1974617709
+    locked: 0
+  - name: 
+    uniqueID: 127104077
+    locked: 0
+  - name: EVENTNODAMAGE
+    uniqueID: 48866475
+    locked: 0
+  - name: EVENTDAMAGE
+    uniqueID: 3611348611
+    locked: 0
+  - name: 
+    uniqueID: 949672347
+    locked: 0
+  - name: PlayerDeux
+    uniqueID: 3676925815
+    locked: 0
+  - name: 
+    uniqueID: 3122405001
+    locked: 0
+  - name: 
+    uniqueID: 3958035723
+    locked: 0
+  - name: PenduleHaut
+    uniqueID: 1721275425
+    locked: 0
