@@ -2,7 +2,7 @@
 
 Shine, dodge, be brigth together to brave time and a fatal fate...
 
-
+![](Scene_intro.gif)
 
 
 This is the source of the game Sinuessa create for the Game Off 2018 with as Theme "Hybrid".
