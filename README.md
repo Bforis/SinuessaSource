@@ -1,6 +1,6 @@
 # SinuessaSource
 
-Shine, dodge, be brigth together to brave time and a fatal fate...
+*Shine, dodge, be brigth together to brave time and a fatal fate...*
 
 ![](Scene_intro.gif)
 
